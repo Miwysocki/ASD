@@ -1,0 +1,5 @@
+liczba przedzia³ów=4;licz=5
+0 1
+4 5
+9 10
+10 11
